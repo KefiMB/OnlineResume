@@ -1,0 +1,43 @@
+
+.first-row{
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+    border: 2px solid white;
+  border-radius: 10px;
+  border-width: 10px;
+}
+.myPic{
+    width:250px;
+    height: 250px;
+    
+}
+body{
+    background-color: grey ;
+}
+
+.second-row{
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+    border: 2px solid white;
+  border-radius: 10px;
+  border-width: 10px;
+  margin-bottom: 20px;
+}
+.third-row{
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+    border: 2px solid white;
+  border-radius: 10px;
+  border-width: 10px;
+}
+
+#main_container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.box4{
+    width: 600px;
+}
